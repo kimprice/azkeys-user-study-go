@@ -2,7 +2,7 @@ module azkeys-user-study-go
 
 go 1.17
 
-require github.com/Azure/azure-sdk-for-go/sdk/keyvault/azkeys v0.2.1-0.20220201000946-2bcab2e8e333
+require github.com/Azure/azure-sdk-for-go/sdk/keyvault/azkeys v0.2.1-0.20220211000156-9f8e47630c6e
 
 require (
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v0.21.0 // indirect
